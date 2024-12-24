@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis Salvador Mendoza Osorio (@acidkeyxyz)
 - 👀 I’m software engineer with +12 years of experience in Software Industry as Back-End (Java) and Front-End (Javascript + ReactJS) and Cloud (Digital Ocean and Terraform).
 - 🌱 I’m currently learning AWS cloud services to become in a Solutions Architect.
-- 💞️ I’m looking to collaborate on Java or React applications as a Consultant for Medium or Large Projects.
+- 💞️ I’m looking to collaborate on Javascript or Java applications as a Consultant for Medium or Large Projects.
 - 📫 How to reach me me@acidkey.xyz
 
 <!---
